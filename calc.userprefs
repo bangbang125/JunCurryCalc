@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Ads.cs">
+    <Files>
+      <File FileName="Assets/Scripts/startbutton.cs" Line="13" Column="3" />
+      <File FileName="Assets/RevisionFirst.cs" Line="1" Column="1" />
+      <File FileName="Assets/NomalCurryPlus.cs" Line="1" Column="1" />
+      <File FileName="Assets/BigCurryPlus.cs" Line="1" Column="1" />
+      <File FileName="Assets/NomalCurryMinus.cs" Line="1" Column="1" />
+      <File FileName="Assets/BigCurryMinus.cs" Line="1" Column="1" />
+      <File FileName="Assets/CancelButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/PoPUpIns.cs" Line="1" Column="1" />
+      <File FileName="Assets/CalcScript.cs" Line="13" Column="71" />
+      <File FileName="Assets/OkScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/YameruButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/RevisionAction.cs" Line="1" Column="1" />
+      <File FileName="Assets/RevisionNomalPlus.cs" Line="1" Column="1" />
+      <File FileName="Assets/RevisionNomalMinus.cs" Line="1" Column="1" />
+      <File FileName="Assets/RevisionBigPlus.cs" Line="1" Column="1" />
+      <File FileName="Assets/RevisionBigMinus.cs" Line="1" Column="1" />
+      <File FileName="Assets/SoukeiScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/RevisionScript.cs" Line="33" Column="47" />
+      <File FileName="Assets/NomalChangedScript.cs" Line="18" Column="1" />
+      <File FileName="Assets/BigChangedScript.cs" Line="6" Column="2" />
+      <File FileName="Assets/PeopleChangedScript.cs" Line="6" Column="26" />
+      <File FileName="Assets/Ads.cs" Line="5" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
